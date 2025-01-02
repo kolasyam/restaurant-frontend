@@ -64,7 +64,7 @@ const Reservationpage = () => {
   useEffect(() => {
     fetchProducts();
   }, [fetchProducts]);
-  //   console.log("products", products);
+  console.log("products", products);
   const handleSubmit = async (e) => {
     e.preventDefault();
 
