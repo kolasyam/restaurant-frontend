@@ -132,7 +132,7 @@ const Reservationpage = () => {
         </Link>
       </div>
       <h1 className="hidden md:block text-3xl font-bold mb-6 text-center w-full">
-        Restaurant Table Booking
+        Restaurant Table Booking Form
       </h1>
 
       <div className="flex flex-col w-full md:w-full gap-8 p-4">
